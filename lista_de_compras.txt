@@ -1,0 +1,11 @@
+Lista de Compras:
+1.refrigerante
+2.pão
+3.presunto
+4.queijo
+5.maionese
+6.katchup
+7.chocolate
+8.leite condensado
+9.biscoito
+
